@@ -450,11 +450,12 @@ export default function Home() {
             <li><a href="#services">Services</a></li>
             <li><a href="#process">Process</a></li>
             <li><a href="#why">Why SayfeAI</a></li>
+            <li><a href="/blog">Blog</a></li>
             <li><a href="#faq">FAQ</a></li>
             <li><a href="mailto:hello@sayfe.ai">Contact</a></li>
           </ul>
           <span className="footer-copy">
-            &copy; 2026 SayfeAI Factory — Part of the Sayfe.ai ecosystem.
+            &copy; 2026 SayfeAI Factory &mdash; Part of the Sayfe.ai ecosystem.
           </span>
         </div>
       </footer>

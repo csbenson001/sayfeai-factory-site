@@ -43,6 +43,22 @@ const articles = [
     date: 'February 2026',
     tag: 'Security',
   },
+  {
+    slug: 'ai-risk-management-board-approval',
+    title: 'AI Risk Management: How to Build AI Systems Your Board Will Approve',
+    summary:
+      'A practical guide to AI governance and risk management frameworks that satisfy board-level scrutiny.',
+    date: 'March 2026',
+    tag: 'Governance',
+  },
+  {
+    slug: 'human-in-the-loop-advantage',
+    title: "The Human-in-the-Loop Advantage: Why Fully Autonomous AI Isn't Always Better",
+    summary:
+      'An evidence-based analysis of when human oversight improves AI outcomes, with practical examples across industries.',
+    date: 'March 2026',
+    tag: 'Methodology',
+  },
 ];
 
 export default function BlogPage() {
