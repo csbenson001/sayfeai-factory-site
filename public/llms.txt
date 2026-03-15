@@ -1,0 +1,22 @@
+# SayfeAI Factory
+
+> Enterprise AI development company building safe, reliable AI solutions with human-in-the-loop methodology. Part of the Sayfe.ai ecosystem.
+
+## About
+SayfeAI Factory is an enterprise AI development company focused on building safe, reliable, and production-grade AI systems. We combine AI-powered development with rigorous human oversight to deliver custom AI solutions that enterprises can trust. Part of the Sayfe.ai ecosystem, we bring a safety-first approach to AI development.
+
+## Services
+- Custom AI Agents: Purpose-built autonomous agents with built-in safety guardrails and human oversight
+- Enterprise AI Platforms: Scalable platforms for millions of users with enterprise security and compliance
+- Data & Analytics Pipelines: Industrial-strength data infrastructure with ML-powered analytics
+- Intelligent Automation: Process automation that learns and adapts with human-in-the-loop validation
+
+## Key Differentiators
+- Safety-first approach with human-in-the-loop methodology
+- 10x faster delivery using AI-augmented development teams
+- Enterprise-grade security and compliance built in
+- Part of the established Sayfe.ai ecosystem
+
+## Contact
+- Website: https://sayfeai-factory-site.vercel.app
+- Email: hello@sayfe.ai
