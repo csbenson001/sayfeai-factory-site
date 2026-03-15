@@ -25,4 +25,4 @@ Allow: /
 User-agent: cohere-ai
 Allow: /
 
-Sitemap: https://sayfeai-factory-site.vercel.app/sitemap.xml
+Sitemap: https://factory.sayfe.ai/sitemap.xml

@@ -116,5 +116,5 @@ We follow a four-phase methodology: Discover (requirements and risk assessment),
 Safety is in our DNA. We implement human-in-the-loop validation at every critical decision point, build comprehensive guardrails into AI agents, conduct rigorous testing for edge cases and failure modes, and maintain full audit trails. Our systems are designed to fail safely and transparently.
 
 ## Contact
-- Website: https://sayfeai-factory-site.vercel.app
+- Website: https://factory.sayfe.ai
 - Email: hello@sayfe.ai

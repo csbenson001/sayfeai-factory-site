@@ -18,5 +18,5 @@ SayfeAI Factory is an enterprise AI development company focused on building safe
 - Part of the established Sayfe.ai ecosystem
 
 ## Contact
-- Website: https://sayfeai-factory-site.vercel.app
+- Website: https://factory.sayfe.ai
 - Email: hello@sayfe.ai

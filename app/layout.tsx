@@ -16,7 +16,7 @@ const dmSerifDisplay = DM_Serif_Display({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://sayfeai-factory-site.vercel.app'),
+  metadataBase: new URL('https://factory.sayfe.ai'),
   title: 'SayfeAI Factory — Enterprise AI, Engineered Safely | AI Development Company',
   description:
     'SayfeAI Factory builds safe, reliable enterprise AI solutions. Custom AI agents, platforms, automation, and LLM solutions. Part of the Sayfe.ai ecosystem. Human-in-the-loop methodology ensures quality and safety.',
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     description:
       'Safe, reliable enterprise AI solutions built with human-in-the-loop methodology. Custom AI agents, platforms, and automation.',
     type: 'website',
-    url: 'https://sayfeai-factory-site.vercel.app',
+    url: 'https://factory.sayfe.ai',
     siteName: 'SayfeAI Factory',
   },
   twitter: {
@@ -50,7 +50,7 @@ export const metadata: Metadata = {
       'Safe, reliable enterprise AI solutions built with human-in-the-loop methodology.',
   },
   alternates: {
-    canonical: 'https://sayfeai-factory-site.vercel.app',
+    canonical: 'https://factory.sayfe.ai',
   },
   robots: {
     index: true,
@@ -64,9 +64,9 @@ const jsonLd = {
   '@graph': [
     {
       '@type': 'Organization',
-      '@id': 'https://sayfeai-factory-site.vercel.app/#organization',
+      '@id': 'https://factory.sayfe.ai/#organization',
       name: 'SayfeAI Factory',
-      url: 'https://sayfeai-factory-site.vercel.app',
+      url: 'https://factory.sayfe.ai',
       description:
         'Enterprise AI development company building safe, reliable AI solutions with human-in-the-loop methodology. Part of the Sayfe.ai ecosystem.',
       email: 'hello@sayfe.ai',
@@ -126,21 +126,21 @@ const jsonLd = {
     },
     {
       '@type': 'WebSite',
-      '@id': 'https://sayfeai-factory-site.vercel.app/#website',
-      url: 'https://sayfeai-factory-site.vercel.app',
+      '@id': 'https://factory.sayfe.ai/#website',
+      url: 'https://factory.sayfe.ai',
       name: 'SayfeAI Factory',
       publisher: {
-        '@id': 'https://sayfeai-factory-site.vercel.app/#organization',
+        '@id': 'https://factory.sayfe.ai/#organization',
       },
       description:
         'Enterprise AI, Engineered Safely — Custom AI solutions built with human-in-the-loop methodology.',
     },
     {
       '@type': 'Service',
-      '@id': 'https://sayfeai-factory-site.vercel.app/#custom-ai-agents',
+      '@id': 'https://factory.sayfe.ai/#custom-ai-agents',
       name: 'Custom AI Agents',
       provider: {
-        '@id': 'https://sayfeai-factory-site.vercel.app/#organization',
+        '@id': 'https://factory.sayfe.ai/#organization',
       },
       description:
         'Purpose-built autonomous agents with built-in safety guardrails and human oversight. Deployed at scale across your organization with continuous monitoring.',
@@ -148,10 +148,10 @@ const jsonLd = {
     },
     {
       '@type': 'Service',
-      '@id': 'https://sayfeai-factory-site.vercel.app/#enterprise-platforms',
+      '@id': 'https://factory.sayfe.ai/#enterprise-platforms',
       name: 'Enterprise AI Platforms',
       provider: {
-        '@id': 'https://sayfeai-factory-site.vercel.app/#organization',
+        '@id': 'https://factory.sayfe.ai/#organization',
       },
       description:
         'Scalable platforms engineered for millions of users. AI-native architecture with enterprise security, compliance, and real-time processing.',
@@ -159,10 +159,10 @@ const jsonLd = {
     },
     {
       '@type': 'Service',
-      '@id': 'https://sayfeai-factory-site.vercel.app/#data-pipelines',
+      '@id': 'https://factory.sayfe.ai/#data-pipelines',
       name: 'Data & Analytics Pipelines',
       provider: {
-        '@id': 'https://sayfeai-factory-site.vercel.app/#organization',
+        '@id': 'https://factory.sayfe.ai/#organization',
       },
       description:
         'Industrial-strength data infrastructure that ingests, transforms, and delivers insights at petabyte scale with ML-powered analytics.',
@@ -170,10 +170,10 @@ const jsonLd = {
     },
     {
       '@type': 'Service',
-      '@id': 'https://sayfeai-factory-site.vercel.app/#intelligent-automation',
+      '@id': 'https://factory.sayfe.ai/#intelligent-automation',
       name: 'Intelligent Automation',
       provider: {
-        '@id': 'https://sayfeai-factory-site.vercel.app/#organization',
+        '@id': 'https://factory.sayfe.ai/#organization',
       },
       description:
         'Process automation that learns and adapts with human-in-the-loop validation. From document processing to supply chain orchestration.',
@@ -181,7 +181,7 @@ const jsonLd = {
     },
     {
       '@type': 'FAQPage',
-      '@id': 'https://sayfeai-factory-site.vercel.app/#faq',
+      '@id': 'https://factory.sayfe.ai/#faq',
       mainEntity: [
         {
           '@type': 'Question',
